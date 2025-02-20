@@ -49,7 +49,7 @@ const App = () => {
               <li>Authored and published 5+ informative knowledge-based articles and guides enhancing knowledge sharing.</li>
               <li>Developed a Python-based tool to analyze multicast traffic flow in L3 domains, improving troubleshooting efficiency by 80% and
 reducing Mean Time To Resolution (MTTR) by 50%</li>
-<li>Leveraged advanced text parsing and processing techniques to extract and process PIM protocol data from tech-support files, generating
+              <li>Leveraged advanced text parsing and processing techniques to extract and process PIM protocol data from tech-support files, generating
 10+ actionable insights and performing 15+ configuration validation checks.</li>
             </ul>
           </div>
