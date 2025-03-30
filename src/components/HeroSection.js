@@ -22,9 +22,14 @@ function HeroSection() {
           performance, and leveraging technology to drive meaningful impact.
         </p>
         <div className="flex space-x-6">
-          <button className="bg-green-400 text-black px-6 py-3 rounded-full flex items-center hover:bg-green-500 transition-colors">
-            Download CV <span className="ml-2">↓</span>
-          </button>
+          <a
+            href="https://manavpatnaik-sde-resume.tiiny.site/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-green-400 text-black px-6 py-3 rounded-full flex items-center hover:bg-green-500 transition-colors"
+          >
+            View Resume
+          </a>
           <a
             href="https://github.com/manavpatnaik"
             target="_blank"
